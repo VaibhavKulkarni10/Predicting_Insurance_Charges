@@ -51,3 +51,6 @@ To achieve our objective, we have divided our methodology into the following ste
 
 * Model Validation
   * Cross-Validation: Validate the model using techniques like cross-validation to predict outcomes on new or unseen data.
+
+## Conclusion
+By following these steps, we aim to develop a robust model for predicting insurance charges. This model will help customers and insurance companies make informed decisions and will contribute to better financial planning and healthcare management. The detailed implementation and results of this methodology are discussed in the following sections.
